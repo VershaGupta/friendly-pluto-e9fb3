@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Aboutrrrrrrrrrrrrr
     subtitle: About Page Demo
-    align: center
+    align: left
     background_color: secondary
   - type: features_section
     features:
