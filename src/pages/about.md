@@ -6,6 +6,7 @@ sections:
     subtitle: About Page Demo
     align: left
     background_color: secondary
+    padding_top: large
   - type: features_section
     features:
       - title: Section Title One
